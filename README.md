@@ -1,6 +1,6 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_UPC_Peru.svg/2560px-Logo_UPC_Peru.svg.png)
+![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 ## "Informe de Trabajo Final"
 
