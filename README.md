@@ -20,7 +20,7 @@
 | Nombre                                | Código       |
 |---------------------------------------|--------------|
 |Renzo Sebastian Uribe Livia            |U202311745    |
-|           |    |
+|Fabian Alejandro Oliva Lopez           |U202312013    |
 |         |    |
 |           |    |
 |      |    |
