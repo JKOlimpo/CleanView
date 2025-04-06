@@ -46,5 +46,16 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 ![entrevistas-1](https://github.com/user-attachments/assets/57cb9e34-cf67-458b-8fc5-b754c461b2f3)
 ![entrevistas-2](https://github.com/user-attachments/assets/facdca92-c876-402a-968e-008e4612f5d0)
 
+## 2.3. Needfinding
 
+### 2.3.1. User Personas
 
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language 
