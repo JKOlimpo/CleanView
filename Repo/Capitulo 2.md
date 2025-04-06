@@ -50,6 +50,12 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ### 2.3.1. User Personas
 
+>  Segmento 1: Empresas
+
+>  Segmento 2: Personas Naturales
+
+![user persona 1 - segmento 2](https://github.com/JKOlimpo/CleanView/blob/main/img/User%20Persona%202%20-%20Segmento%202.png)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
