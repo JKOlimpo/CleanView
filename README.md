@@ -50,7 +50,7 @@ Repositorio del repositorio del **Project Report**: [)
 
 ## Repertorio
 
-1. [Capítulo I: Introducción](#Capitulo-1.md)
+1. [Capítulo I: Introducción](./Repo/Capitulo%201.md)
    - [1.1 Startup Profile](#Capitulo-1.md)
      - [1.1.1 Descripción de la Startup](#Capitulo-1.md)
      - [1.1.2 Perfiles de Integrantes del equipo](#Capitulo-1.md)
