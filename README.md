@@ -22,7 +22,7 @@
 |Renzo Sebastian Uribe Livia            |U202311745    |
 |Fabian Alejandro Oliva Lopez           |U202312013    |
 |Marcia Victoria Melgarejo Gomez        |U20231C505    |
-|           |    |
+|Gabriel Fernando Gordon Salas          |U20221E229    |
 |      |    |
 
 **Abril 2025**
