@@ -21,7 +21,7 @@
 |---------------------------------------|--------------|
 |Renzo Sebastian Uribe Livia            |U202311745    |
 |Fabian Alejandro Oliva Lopez           |U202312013    |
-|         |    |
+|Marcia Victoria Melgarejo Gomez        |U20231C505    |
 |           |    |
 |      |    |
 
