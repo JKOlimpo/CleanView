@@ -26,7 +26,7 @@ Ser la herramienta líder en la gestión de residuos para empresas a nivel globa
 | Nombre                        | Rol                     | Contacto                                   | Habilidades y conocimientos técnicos |
 |-------------------------------|-------------------------|--------------------------------------------|--------------------------------------|
 | Renzo Sebastian Uribe Livia   | Ingeniero de software   | renzosebastianuribelivia@gmail.com         | Desarrollo en C++, diseño de HTML    |
-|                               |                         |                                            |                                      |
+| Fabian Alejandro Oliva Lopez  | Ingeniero de sofware    | fabianalejandro1001@gmail.com              | Desarrollo en Visual Studio          |                                                                             
 |                               |                         |                                            |                                      |
 |                               |                         |                                            |                                      |
 
