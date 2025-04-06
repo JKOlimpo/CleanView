@@ -43,15 +43,6 @@ Las entrevistas de usuarios para CleanWind tienen como objetivo principal compre
 ### 2.2.1 Diseño de entrevistas
 Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los diferentes segmentos de usuarios de CleanWind (empresas medianas, grandes empresas y ciudadanos interesados en reciclar), así como sus objetivos, características y principales desafíos. Se definieron los objetivos de la investigación, las preguntas clave y los temas a abordar durante cada entrevista.
 
-**Listado de Preguntas**
+#
 
-- **¿Cuáles son tus principales desafíos actuales en relación con la gestión de residuos en tu empresa o entorno?**
-- **¿Qué tipo de datos consideras importantes al momento de evaluar la cantidad de residuos generados?**
-- **¿Cómo gestionas actualmente el reciclaje o la disposición de residuos en tu empresa?**
-- **¿Qué tan importante crees que es contar con una plataforma que muestre métricas en tiempo real sobre los residuos generados?**
-- **¿Has tenido problemas para encontrar centros de reciclaje o proveedores de recolección adecuados?**
-- **¿Qué beneficios crees que tendría contar con recomendaciones personalizadas para reducir la generación de residuos?**
-- **¿Cuáles son las funcionalidades más relevantes que debería tener una herramienta como CleanWind para ayudarte a mejorar la sostenibilidad de tu empresa?**
-- **¿Estarías dispuesto(a) a pagar por un plan premium si te permite automatizar la recolección de residuos y obtener reportes avanzados sobre tu impacto ambiental?**
-- **¿Qué aspectos visuales o funcionales valoras más en una plataforma digital que utilices frecuentemente para temas operativos?**
-- **¿Qué otras herramientas utilizas actualmente para el seguimiento ambiental en tu empresa? ¿Qué te gusta y qué no?**
+
