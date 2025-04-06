@@ -176,7 +176,7 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 #### 1.2.2.4. Lean UX Canvas
 
 ![Lean Canvas](lean-canvas-placeholder.png)  
-*Nota: Este es un placeholder para el Lean Canvas. Si deseas que genere una imagen para el Lean Canvas, por favor confírmalo.*
+*Nota: Este es un placeholder para el Lean Canvas.*
 
 ### 1.3. Segmentos objetivo
 
