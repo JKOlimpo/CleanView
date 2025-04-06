@@ -19,5 +19,25 @@
 |**Características Diferenciales**    |Plataforma web con monitoreo inteligente, mapa de reciclaje, alertas personalizadas, reportes de impacto y conexión con recicladores. | Especialización técnica en RAEE con planta de valorización. | Gestión completa de residuos con enfoque ambiental, pero sin plataforma digital. | Servicios logísticos especializados en residuos industriales, con cobertura nacional. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Nuestra estrategia se basa en la diferenciación tecnológica y el uso de datos en tiempo real para optimizar la gestión de residuos en empresas. Así, nuestras tácticas clave son:
+
+**Optimizar la experiencia del usuario en la plataforma**
+
+Garantizar que el panel sea visualmente intuitivo, fácil de navegar y accesible para responsables ambientales, operativos y administrativos, lo que impulsa la adopción de la herramienta y fideliza a los clientes.
+
+**Colaborar con centros de reciclaje y autoridades locales**
+
+Establecer alianzas con entidades recicladoras, municipios y operadores ambientales para facilitar la conexión directa desde la plataforma, automatizando recolecciones y asegurando rutas sostenibles para los residuos.
+
+**Realizar campañas educativas de concientización ambiental**
+
+Promover buenas prácticas de manejo de residuos, cumplimiento de normativas y beneficios del reciclaje corporativo a través de contenidos digitales, webinars y redes sociales dirigidas a empresas y ciudadanos responsables.
+
+**Fomentar la adopción de CleanWind**
+
+Ofrecer planes gratuitos con funcionalidades clave, e incentivos como reportes personalizados o conexión con proveedores en los primeros meses, para atraer usuarios iniciales, validar el modelo y generar confianza en el mercado.
 
 ## 2.2. Entrevistas
+Las entrevistas de usuarios para CleanWind tienen como objetivo principal comprender las necesidades, preocupaciones y expectativas de los usuarios potenciales en relación con la gestión de residuos dentro de sus empresas. Asimismo, se busca identificar las dificultades en la medición, reducción y reciclaje de desechos, así como su interés en herramientas tecnológicas que promuevan una gestión ambiental más eficiente.
+
+### 2.2.1 Diseño de entrevistas
