@@ -1,5 +1,10 @@
 # Capítulo III : Requirements Specification 
 ## 3.1. To-Be Scenario Mapping
+>  Segmento 1 : Empresas
+![TO-BE Segmento 1](https://github.com/JKOlimpo/CleanView/blob/b47c727e6fd4a4d59d1dd675a468e9aeba787303/img/TO-BE%20-%20Segmento%201.jpg)
+
+>Segmento 2 : Personas Naturales
+![TO-BE Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
 ## 3.2. User Stories
 
 |  Epic / Story ID  |  Título  |  Descripción  |  Criterios de Aceptación  |  Relacionado con (Epic ID)  |
