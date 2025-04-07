@@ -62,10 +62,21 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 > Leonardo Dan
 
-
-
+| Actividades                                       | Frecuencia | Importancia |
+| --------------------------------------------------|------------|-------------|
+| Analizar datos en tiempo real                     | Diario     | Alto        |
+| Generar reportes de impacto ambiental             | Semanal    | Alto        |
+| Revisar cimplimiento de normativas ambientales    | Mensual    | Alto        |
+| Capacitar al equipo en uso de la app              | Diario     | Alto        |
+ 
 > Diana Costa
 
+| Actividades                                       | Frecuencia | Importancia |
+| --------------------------------------------------|------------|-------------|
+| Registrar residuos diarios                        | Diario     | Alto        |
+| Monitorear el impacto ambiental                   | Semanal    | Alto        |
+| Compartir avances en redes sociales               | Mensual    | Medio       |
+| Recibir alertas de recolección                    | Diario     | Alto        |
 
 
  
