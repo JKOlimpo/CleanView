@@ -87,6 +87,7 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 ![user persona 1 - segmento 2 - JMP 2](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%202.png)
 
 ### 2.3.4. Empathy Mapping
+![Empathy Mapping 1](https://github.com/JKOlimpo/CleanView/blob/833ad151a9b478ff48b214a388a50ddf0020ed85/img/Empathy%20Mapping%201.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
