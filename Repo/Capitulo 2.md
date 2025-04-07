@@ -92,4 +92,11 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ### 2.3.5. As-is Scenario Mapping
 
+>  Segmento 1 : Empresas
+
+![AS-IS Segmento 1](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%201.jpg)
+
+>Segmento 2 : Personas Naturales
+
+![AS-IS Segmento 2](https://github.com/JKOlimpo/CleanView/blob/c4fe59115133d1f64908ec68993bf86c4bf7d23d/img/AS-IS%20-%20Segmento%202.jpg)
 ## 2.4. Ubiquitous Language 
