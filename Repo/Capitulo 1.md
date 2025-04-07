@@ -181,8 +181,6 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 
 ### 1.3. Segmentos objetivo
 
-### 1.3. Segmentos Objetivo
-
 **Segmento 1: Personas Naturales**  
 - **Características:**  
   - Ciudadanos comprometidos con el medio ambiente o interesados en comenzar prácticas sostenibles.  
