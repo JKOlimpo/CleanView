@@ -181,39 +181,37 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 
 ### 1.3. Segmentos objetivo
 
-A continuación, se describen los segmentos objetivo a los que está dirigida la propuesta de solución *Plataforma de Gestión de Residuos*:
+### 1.3. Segmentos Objetivo
 
-**Segmento 1: Pequeñas y Medianas Empresas (PyMEs)**  
+**Segmento 1: Personas Naturales**  
 - **Características:**  
-  - Empresas con menos de 50 empleados.  
-  - Sectores: manufactura, comercio minorista, servicios, logística, etc.  
-  - Ingresos mensuales: $10,000 - $100,000 USD.  
+  - Ciudadanos comprometidos con el medio ambiente o interesados en comenzar prácticas sostenibles.  
+  - Edades entre 20 y 60 años.  
+  - Nivel socioeconómico medio a alto.  
+  - Interés en la gestión de residuos domésticos, reciclaje y reducción del impacto ambiental.
+
 - **Necesidades:**  
-  - Herramientas digitales para monitorear la generación de residuos.  
-  - Optimización de procesos de reciclaje y reducción de residuos.  
+  - Aplicación intuitiva para registrar y analizar sus hábitos de consumo y reciclaje.  
+  - Recomendaciones personalizadas para reducir su generación de residuos.  
+  - Mapa interactivo con centros de reciclaje cercanos.  
+  - Alertas y notificaciones sobre fechas de recolección y tips ecológicos.
+
+
+**Segmento 2: Empresas (PyMEs, Grandes Empresas y ONGs)**  
+- **Características:**  
+  - Organizaciones de distintos tamaños, desde pequeñas hasta grandes, incluyendo ONGs enfocadas en sostenibilidad.  
+  - Sectores como manufactura, comercio, servicios, logística, y tecnología.  
+  - Ingresos mensuales variados: desde $10,000 hasta más de $1,000,000 USD.
+
+- **Necesidades:**  
+  - Herramientas digitales para monitorear en tiempo real la generación de residuos.  
+  - Análisis y reportes detallados sobre impacto ambiental y reducción de costos.  
+  - Integración con sistemas internos de gestión.  
   - Recomendaciones prácticas para cumplir con normativas medioambientales.  
-  - Acceso a datos detallados sobre la cantidad de residuos generados y su impacto.
+  - Funcionalidades colaborativas para conectar con centros de reciclaje y otras instituciones sostenibles.
 
-**Segmento 2: Grandes Empresas**  
-- **Características:**  
-  - Empresas con más de 50 empleados.  
-  - Sectores: manufactura industrial, cadenas de suministro, empresas tecnológicas, entre otras.  
-  - Ingresos mensuales: $100,000 - $1,000,000 USD.  
-- **Necesidades:**  
-  - Soluciones avanzadas para el monitoreo en tiempo real de la producción de residuos.  
-  - Integración con sistemas internos para optimizar la gestión de residuos a gran escala.  
-  - Reportes detallados sobre el impacto ambiental y la reducción de costos relacionados con los residuos.  
-  - Capacitación y alertas personalizadas para ayudar a reducir el impacto ambiental de sus operaciones.
 
-**Segmento 3: Organizaciones de Sostenibilidad y ONGs**  
-- **Características:**  
-  - Organizaciones enfocadas en la sostenibilidad y el medio ambiente.  
-  - Proyectos comunitarios y colaboraciones con empresas para promover prácticas sostenibles.  
-  - Ingresos variables dependiendo de fondos y colaboraciones.  
-- **Necesidades:**  
-  - Herramientas para ayudar a empresas a reducir su huella ecológica.  
-  - Acceso a datos y estadísticas sobre la gestión de residuos de empresas colaboradoras.  
-  - Plataforma para conectar con centros de reciclaje y promover prácticas más sostenibles en diferentes sectores industriales.
+
 
 
 
