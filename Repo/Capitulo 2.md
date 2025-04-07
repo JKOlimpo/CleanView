@@ -60,7 +60,30 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 ### 2.3.2. User Task Matrix
 
+> Leonardo Dan
+
+|    Actividades    |    Frecuencia    |    Importancia    |
+|----------------------------------------------------------|
+||||
+||||
+||||
+||||
+
+> Diana Costa
+
+|    Actividades    |    Frecuencia    |    Importancia    |
+| -------------------------------------------------------- |
+| Ol | l | a |
+||||
+||||
+||||
+
+ 
 ### 2.3.3. User Journey Mapping
+
+![user persona 1 - segmento 1 - JMP 1](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%201.png)
+
+![user persona 1 - segmento 2 - JMP 2](https://github.com/JKOlimpo/CleanView/blob/main/img/Journey%20map%202.png)
 
 ### 2.3.4. Empathy Mapping
 
