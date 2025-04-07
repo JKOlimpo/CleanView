@@ -62,21 +62,11 @@ Para el diseño de las entrevistas, se ha tomado en cuenta el perfil de los dife
 
 > Leonardo Dan
 
-|    Actividades    |    Frecuencia    |    Importancia    |
-|----------------------------------------------------------|
-||||
-||||
-||||
-||||
+
 
 > Diana Costa
 
-|    Actividades    |    Frecuencia    |    Importancia    |
-| -------------------------------------------------------- |
-| Ol | l | a |
-||||
-||||
-||||
+
 
  
 ### 2.3.3. User Journey Mapping
