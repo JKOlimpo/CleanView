@@ -171,7 +171,7 @@ Cuando veamos con un sistema que envíe notificaciones sobre fechas de recolecci
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean Canvas](lean-canvas-placeholder.png)  
+![Lean Canvas](https://github.com/JKOlimpo/CleanView/blob/547a420da087ae0baa56f920879e0d67cf6886a6/img/Canvas-%20Open%20source.jpg)  
 *Nota: Este es un placeholder para el Lean Canvas.*
 
 ### 1.3. Segmentos objetivo
