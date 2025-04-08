@@ -76,11 +76,6 @@ En **zonas industriales, urbanas y comerciales**, donde operan empresas con poca
 - **Socialmente**: Daño a la imagen corporativa y pérdida de confianza de consumidores y aliados estratégicos.
 
 
-### Diagrama de Flujo
-
-![Diagrama de Flujo](diagrama-de-flujo-placeholder.png)  
-
-
 ### 1.2.2 Lean UX Process
 
 El proceso de Lean UX se enfoca en crear productos digitales eficientes mediante la experimentación rápida y la validación constante de hipótesis, priorizando la colaboración y el aprendizaje continuo. En el caso de nuestra plataforma de gestión de residuos, el proceso Lean UX se desarrolló en las siguientes fases:
