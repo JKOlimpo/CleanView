@@ -32,3 +32,4 @@
 |---------|-----------------|-----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------|
 | 1       |   US-001        | Monitoreo de residuos en tiempo real    | Como empersarío quiero visualizar la cantidad y tipo de residuos generados a tiempo real |                 5           |
 | 2       |   US-002        | Cumplimiento de normativas ambientales  | Cómo gerente, quiero generar reportes automáticos que cumplan con regulaciones ambientales para garantizar transparencia  |        3         |
+| 3       |   US-003        | Reporte detallado sobre la generación de residuos  | Cómo gerente de operaciones, quiero ver reportes detallados, para identificar áreas donde se puede reducir el desperdicio  |        5         |
